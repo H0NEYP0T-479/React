@@ -1,0 +1,20 @@
+#card
+{
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+    width: 200px;
+    background-color: aqua;
+    margin-top:10px;
+    text-align: center;
+
+}
+#card1 img
+{
+    padding-top: 10px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 30px;
+}

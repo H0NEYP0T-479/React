@@ -1,0 +1,10 @@
+#nav
+{
+    height: 50px;
+    width: 100%;
+    background-color: blue;
+    color: white;
+    padding-left: 15px;
+    padding-top: 10px;
+    font-size: 20px;
+}

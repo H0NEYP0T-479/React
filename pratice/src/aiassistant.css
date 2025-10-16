@@ -1,0 +1,19 @@
+#ai
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 10%;
+    text-align: center;
+    margin-left: 77rem;
+}
+#button
+{
+    height: 40px;
+    width: 90px;
+    border-radius: 15%; 
+    cursor: pointer;
+    background-color: #111;
+    color: white;
+}
