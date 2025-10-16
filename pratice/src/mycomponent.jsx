@@ -24,7 +24,6 @@ const mycomponent = (props) => {
             <button onClick={handelclick} id='button'>Click Me</button>
             
             </div>
-       
         </div>
     </div>
   )
