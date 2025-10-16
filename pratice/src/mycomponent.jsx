@@ -22,7 +22,6 @@ const mycomponent = (props) => {
             <p>{props.props.content}</p>
             <h2>{props.props.honeypot}</h2>
             <button onClick={handelclick} id='button'>Click Me</button>
-            
             </div>
         </div>
     </div>
